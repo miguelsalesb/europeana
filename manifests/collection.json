@@ -1,0 +1,13 @@
+{
+  "id" : "https://miguelsalesb.github.io/europeana/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in miguelsalesb/europeana project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://miguelsalesb.github.io/europeana/manifests/manifest.json",
+    "label" : "Sketches of the Country, character, and Costume, in Portugal and Spain"
+  } ]
+}
