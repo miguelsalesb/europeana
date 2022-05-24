@@ -1,0 +1,66 @@
+{
+  "id" : "https://miguelsalesb.github.io/europeana/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in miguelsalesb/europeana project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2838,
+    "id" : "https://miguelsalesb.github.io/europeana/images/41448/canvas/",
+    "label" : {
+      "none" : [ "41448" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://miguelsalesb.github.io/europeana/images/41448/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://miguelsalesb.github.io/europeana/images/41448/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 60
+            }, {
+              "width" : 178,
+              "height" : 119
+            }, {
+              "width" : 355,
+              "height" : 237
+            }, {
+              "width" : 710,
+              "height" : 473
+            }, {
+              "width" : 1419,
+              "height" : 946
+            }, {
+              "width" : 2838,
+              "height" : 1892
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2838,
+            "@id" : "https://miguelsalesb.github.io/europeana/images/41448",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1892
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2838,
+          "id" : "https://miguelsalesb.github.io/europeana/images/41448/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1892
+        },
+        "target" : "https://miguelsalesb.github.io/europeana/images/41448/canvas/"
+      } ]
+    } ],
+    "height" : 1892
+  } ]
+}
